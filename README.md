@@ -1,6 +1,6 @@
-# Terraform: Auto Scaling
+# Terraform: Auto Scaling in AWS
 
-[Santiago Pancca M.](https://github.com/fnixTiago), Ruben Huanca M.\
+[Santiago Pancca M.](https://github.com/fnixTiago), Ruben Huanca M. :+1:\
 03 Diciembre 2020
 
 ## Run
